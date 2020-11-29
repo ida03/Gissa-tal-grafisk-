@@ -1,0 +1,10 @@
+C:\Users\idsp03001\source\repos\Gissa-tal-grafisk.1\Gissa tal (grafisk)\Gissa tal (grafisk)\bin\Debug\Gissa tal (grafisk).exe.config
+C:\Users\idsp03001\source\repos\Gissa-tal-grafisk.1\Gissa tal (grafisk)\Gissa tal (grafisk)\bin\Debug\Gissa tal (grafisk).exe
+C:\Users\idsp03001\source\repos\Gissa-tal-grafisk.1\Gissa tal (grafisk)\Gissa tal (grafisk)\bin\Debug\Gissa tal (grafisk).pdb
+C:\Users\idsp03001\source\repos\Gissa-tal-grafisk.1\Gissa tal (grafisk)\Gissa tal (grafisk)\obj\Debug\Gissa tal (grafisk).csprojAssemblyReference.cache
+C:\Users\idsp03001\source\repos\Gissa-tal-grafisk.1\Gissa tal (grafisk)\Gissa tal (grafisk)\obj\Debug\Gissa_tal__grafisk_.Form1.resources
+C:\Users\idsp03001\source\repos\Gissa-tal-grafisk.1\Gissa tal (grafisk)\Gissa tal (grafisk)\obj\Debug\Gissa_tal__grafisk_.Properties.Resources.resources
+C:\Users\idsp03001\source\repos\Gissa-tal-grafisk.1\Gissa tal (grafisk)\Gissa tal (grafisk)\obj\Debug\Gissa tal (grafisk).csproj.GenerateResource.cache
+C:\Users\idsp03001\source\repos\Gissa-tal-grafisk.1\Gissa tal (grafisk)\Gissa tal (grafisk)\obj\Debug\Gissa tal (grafisk).csproj.CoreCompileInputs.cache
+C:\Users\idsp03001\source\repos\Gissa-tal-grafisk.1\Gissa tal (grafisk)\Gissa tal (grafisk)\obj\Debug\Gissa tal (grafisk).exe
+C:\Users\idsp03001\source\repos\Gissa-tal-grafisk.1\Gissa tal (grafisk)\Gissa tal (grafisk)\obj\Debug\Gissa tal (grafisk).pdb
