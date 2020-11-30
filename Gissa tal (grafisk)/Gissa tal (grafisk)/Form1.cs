@@ -12,35 +12,34 @@ namespace Gissa_tal__grafisk_
 {
     public partial class Form1 : Form
     {
+        Random randomerare = new Random();
+        int tal;
+        int räknare = 0;
         public Form1()
         {
             InitializeComponent();
+            tal = randomerare.Next(1, 100);
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Random randomerare = new Random();
-            int tal = randomerare.Next(1, 100);
-            int räknare = 0;
             int gissning = 0;
 
-            while (gissning != tal)
+
+            gissning = int.Parse(textboxgissning.Text);
+            räknare++;
+
+            if (gissning != tal)
             {
-                gissning = int.Parse(textboxgissning.Text);
-                räknare++;
+                if (gissning < tal)
+                    textboxresultat.Text = "Gissningen är för låg";
 
-                if (gissning != tal)
-                {
-                    if (gissning < tal)
-                        textboxresultat.Text = "Gissningen är för låg";
-
-                    if (gissning > tal)
-                        textboxresultat.Text = "Gissningen är för hög";
-                }
-                else
-                    textboxresultat.Text = "Gissningen är rätt!" + " \nAntal gissningar: " + räknare;
+                if (gissning > tal)
+                    textboxresultat.Text = "Gissningen är för hög";
             }
-
+            else
+                textboxresultat.Text = "Gissningen är rätt!" + " \nAntal gissningar: " + räknare;
         }
+
     }
 }
